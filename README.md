@@ -1,2 +1,2 @@
 # Inzynierka
-syf
+pierwszy prototyp pracy inżynierskiej
